@@ -152,5 +152,3 @@ Classification report results:
 * Apply **cross-validation** for more robust performance evaluation.
 
 ---
-
-Would you like me to **add the visualization plots as embedded images** in the README (so it looks more like a data science report), or keep it just as code snippets?
